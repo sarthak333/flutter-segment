@@ -9,6 +9,7 @@ public class FlutterSegmentOptions {
     private final Boolean trackApplicationLifecycleEvents;
     private final Boolean amplitudeIntegrationEnabled;
     private final Boolean appsflyerIntegrationEnabled;
+    private final Boolean moengageIntegrationEnabled;
     private final Boolean debug;
 
     public FlutterSegmentOptions(
